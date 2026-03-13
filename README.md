@@ -34,5 +34,4 @@ The chatbot uses a Sentence Transformer model to understand the meaning of user 
 
 Example chatbot interface:
 
-![Chatbot UI](images/chatbot_ui.png)
-
+![Chatbot UI](images/chatbot_ui.PNG)
